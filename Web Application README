@@ -1,0 +1,22 @@
+
+---
+
+# 2. Web Application README
+
+```md
+# Web App
+
+Modern web application built with React and Node.js.
+
+## Tech Stack
+
+- React
+- Node.js
+- Express
+- MongoDB
+
+## Setup
+
+```bash
+npm install
+npm run dev
